@@ -39,7 +39,7 @@ export default {
     baseURL: "https://api.publish.jobs/api/",
     headers: {
       common: {
-        Authorization: `Bearer ${process.env.ACCESS_TOKEN}`, // replace with your token variable name
+        Authorization: `Bearer ${"664|TZZ7zHnAkQRnVuY5wP0s2xQLoCKzZ7Kl1oLTjEeO"}`, // replace with your token variable name
       },
     },
   },
